@@ -3,6 +3,5 @@ title: "Faith Evangelista-Parsons"
 ---  
 
 
-[This is a picture:]("./images/Plane over moon.jpg")
 
-<img src = "./images/Plane over moon.jpg">
+<img src = "./images/Sketch Profile.jpg">
