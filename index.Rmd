@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Faith Evangelista-Parsons
 
-### Data connoisseur & technology enthusiast
+### Data geek & technology enthusiast
 
 ##### I love solving puzzles! Data and technology are but pieces of the overarching public health puzzle. My mission is to make the most of my fondness for statistics and technology, while maximizing the skills and interests of my team, to improve the efficiency of research planning, data collection and analysis. In doing so, we can unravel a rising number of public health problems as fast and as accurate as possible. 
 
