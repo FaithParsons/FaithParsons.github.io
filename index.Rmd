@@ -4,4 +4,5 @@ title: "Faith Evangelista-Parsons"
 
 
 
-<img src = "./images/Sketch Profile.jpg">
+
+
