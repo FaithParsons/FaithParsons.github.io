@@ -1,8 +1,14 @@
----
-title: "Faith Evangelista-Parsons"
----  
 
+<img src = "./images/Sketch Profile.png" style="width:25%">
 
+Data connoisseur 
 
+Technology enthusiast
 
+Making the most of data science and technology to improve research efficiency and communication of results
 
+```{r, eval=FALSE}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=A13eq4MQj30&t=54" frameborder="0" allowfullscreen></iframe>
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=A13eq4MQj30&t=54" frameborder="0" allowfullscreen></iframe>
