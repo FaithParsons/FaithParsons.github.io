@@ -4,11 +4,11 @@ navbar:
   title: "Home"
   right:
     - icon: fa-user-circle
-      text: "About"
+      text: About
       href: about.html
     - icon: fa-file-text
       text: CV
-      href: feparsons_cv.html
+      href: files/ParsonsFaithE CV 201706.pdf
     - icon: fa-envelope fa-lg
       href: mailto:<faithparsons@gmail.com>
     - icon: fa fa-linkedin
