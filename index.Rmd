@@ -6,10 +6,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Faith E. Parsons
+## Faith Evangelista-Parsons
 
 ### Data connoisseur & technology enthusiast
 
-#### I love puzzles! Data and technology are but pieces of the big public health research puzzle. My goal is to make the most of my knowledge in statistics and technology, and maximize the skills and interests of my team, to improve the efficiency of research data collection and analysis, so we can solve public health problems faster. 
+##### I love solving puzzles! Data and technology are but pieces of the overarching public health puzzle. My mission is to make the most of my fondness for statistics and technology, while maximizing the skills and interests of my team, to improve the efficiency of research planning, data collection and analysis. In doing so, we can unravel a rising number of public health problems as fast and as accurate as possible. 
 
+<br>
+<br>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A13eq4MQj30" frameborder="0" allowfullscreen></iframe>

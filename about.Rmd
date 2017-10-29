@@ -1,5 +1,5 @@
 ---
-title: "It's all about Faith"
+title: "It's all about keeping the Faith"
 output: 
   html_document:
     toc: true
@@ -10,9 +10,10 @@ I wear many hats, and most of them have data tags.
 
 
 
+
 ### Data Manager
 
-I'm a Data Manager at the Center for Behavioral Cardiovascular Health [CBCH](http://www.columbiacardiology.org/research/center-behavioral-cardiovascular-health). I work closely with the rest of the Data Team in designing and building web-based data entry applications for many of our research studies, running data QA checks, creating key variables for analysis, running analysis and data visualization. Some of the studies I worked on include:
+I am a Data Manager at the Center for Behavioral Cardiovascular Health [CBCH](http://www.columbiacardiology.org/research/center-behavioral-cardiovascular-health). I work closely with the Data Team to design and build web-based data entry applications for many of our research studies, run regular data QA checks, create key variables for analysis, perform analysis and data visualization. Some of the studies I have worked on include:
 
 *   A clinical trial comparing depression treatments after heart attack [CODIACS](https://clinicaltrials.gov/ct2/show/NCT01032018) 
 
@@ -24,14 +25,14 @@ I'm a Data Manager at the Center for Behavioral Cardiovascular Health [CBCH](htt
 
 *   [Study of the effects of negative emotions on endothelial functions](https://clinicaltrials.gov/ct2/show/NCT01909895)  
 
-### Graduate student of Biostatistics
+### Biostatistics Graduate Student
 
-I'm also a part-time student in the MS Biostatistics (Theory and Methods track) program at the [Mailman School of Public Health](https://www.mailman.columbia.edu/become-student/departments/biostatistics) and my adviser is [Prof. Christine Mauro](https://www.mailman.columbia.edu/people/our-faculty/cmm2212). I'm very excited to be in my final semester, and look forward to finishing all my requirements in December.
+I am also a student in the MS Biostatistics (Theory and Methods track) program at the [Mailman School of Public Health](https://www.mailman.columbia.edu/become-student/departments/biostatistics) and my adviser is [Prof. Christine Mauro](https://www.mailman.columbia.edu/people/our-faculty/cmm2212). I am very excited to be in my final semester, and look forward to finishing the program in December.
 
 
 ### Statistical Consultant
 
-I am a lifelong learner, and by being a statistical consultant, I get to work with and learn from a diverse clientele with diverse datasets.  I have been a **Top Rated Freelancer** on [Upwork.Com](https://www.upwork.com/o/profiles/users/_~011c2117ecbd36eeca/) and some of the projects I worked on include analysis of: 
+I am a lifelong learner, and by virtue of being a statistical consultant, I get to work with and learn from a diverse clientele with diverse datasets.  I have been a **Top-Rated Freelancer** on [Upwork.Com](https://www.upwork.com/o/profiles/users/_~011c2117ecbd36eeca/) and some of those projects I have worked on include: 
 
 *   Airline noise in select Los Angeles neighborhoods
 
@@ -41,15 +42,15 @@ I am a lifelong learner, and by being a statistical consultant, I get to work wi
 
 *   Effect of cultural and behavioral factors on cervical cancer screening among Arab and Hispanic women
 
-*   Perceptions and experiences of intimate partner violence among hispanic college students 
+*   Perceptions and experiences of intimate partner violence among Hispanic college students 
 
 *   Horse and jockey characteristics and race ranking
 
 *   Physical, economic, and regulatory factors affecting real estate prices 
 
-### Scientist's wife
+### Scientist's Wife
 
-My husband works on a lot of cool projects in Conservation Biology and Chemical Ecology. I enjoy assisting him in field data collection -- some were in the remote mining areas in the Australian outback. We also regularly talk about data and stats, and have published two peer-reviewed papers together: 
+My husband works on many cool projects in [Wildlife Conservation Biology](https://studentscienceprojects.wordpress.com/) and Chemical Ecology. I enjoy assisting him in field data collection -- some of his sites were in remote mining areas in the Australian outback, while others are in the high altitude Himalayas. We also regularly plan and discuss experimental designs, data and stats. We have already published two peer-reviewed papers together and have others in progress: 
 
 *   [The discovery of the 'transient' male Tibetan wild ass: Alternative 'sneaky' mating tactics in a wild equid?](http://booksandjournals.brillonline.com/content/journals/10.1163/1568539x-00003407)
 

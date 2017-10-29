@@ -1,9 +1,9 @@
-name: "Yay internet!"
+name: "Faith Parsons"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Main"
   right:
-    - icon: fa-user-circle
+    - icon: fa-female
       text: About
       href: about.html
     - icon: fa-file-text
